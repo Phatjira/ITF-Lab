@@ -2,4 +2,6 @@
 
 # Author
 
-* phatjira
+* Phatjira Suknaboon
+
+* 61070344
